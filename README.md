@@ -1,4 +1,4 @@
-- 👋 Hello there! I'm Frederico Santos, a Web Developer passionate about technology. I'm 29 years old and I live in Lisbon.
+- 👋 Hello there! I'm Frederico Santos, a Frontend Developer passionate about technology. I'm 29 years old and I live in Lisbon.
 - 👀 I'm always on the lookout for challenges and opportunities to learn and grow professionally.
 - 📖 Currently, I'm focused on mastering my skills in API integration.
 - 🌱 Skills - Programming Languages: JavaScript, TypeScript, HTML, CSS, SQL. Frameworks and Libraries: Angular, React, Next.js, Vue.
